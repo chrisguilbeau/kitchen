@@ -1,0 +1,9 @@
+GOOGLE_API_KEY = 'your google api key'
+PORT = 8080
+DEBUG = False
+HOME = '1234 Street, City, State ZIP, Country'
+WORK = '1234 Street, City, State ZIP, Country'
+WEATHER_LOC = 'Title for Forcast Window'
+WEATHER_LAT = 30.0000
+WEATHER_LON = 30.0000
+CAL_IFRAME = "any calendar iframe will do"
